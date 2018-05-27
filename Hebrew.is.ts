@@ -1722,37 +1722,37 @@ Please don&apos;t touch anything until it&apos;s done.</source>
     <message>
         <location filename="../newprofile.ui" line="14"/>
         <source>Edit User Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>ערוך פרופיל משתמש</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="52"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>שפה</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="63"/>
         <source>English</source>
-        <translation type="unfinished"></translation>
+        <translation>אנגלית</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="71"/>
         <source>Data Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>תיקיית נתונים</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="78"/>
         <source>Shows the directory where SleepyHead data will be stored. </source>
-        <translation type="unfinished"></translation>
+        <translation>מראה את המיקום בו נתוני SleepyHead יהיו מאוכסנים. </translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="85"/>
         <source>Click here to choose where to store SleepyHead data.</source>
-        <translation type="unfinished"></translation>
+        <translation>הקלק פה לבחור איפה לאכסן את נתוני SleepyHead.</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="88"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="97"/>
@@ -1777,257 +1777,257 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;This software is copyright ©2011 Mark Watkins &lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="127"/>
         <source>I agree to all the conditions above.</source>
-        <translation type="unfinished"></translation>
+        <translation>אני מסכים לכל התנאים.</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="144"/>
         <source>User Information</source>
-        <translation type="unfinished"></translation>
+        <translation>מידע משתמש</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="167"/>
         <source>User Name</source>
-        <translation type="unfinished"></translation>
+        <translation>שם משתמש</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="186"/>
         <source>Keep the kids out.. Nothing more.. This isn&apos;t meant to be uber security.</source>
-        <translation type="unfinished"></translation>
+        <translation>הגנת ילדים.. לא יותר.. לא אבטחה אמיתית.</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="189"/>
         <source>Password Protect Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>הגנת סיסמה לפרופיל</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="204"/>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>סיסמה</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="218"/>
         <source>...twice...</source>
-        <translation type="unfinished"></translation>
+        <translation>...שוב...</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="245"/>
         <source>Locale Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>הגדרות איזוריות</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="266"/>
         <source>Country</source>
-        <translation type="unfinished"></translation>
+        <translation>מדינה</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="285"/>
         <source>TimeZone</source>
-        <translation type="unfinished"></translation>
+        <translation>איזור זמן</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="324"/>
         <source>DST Zone</source>
-        <translation type="unfinished"></translation>
+        <translation>איזור DST</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="344"/>
         <source>Personal Information (for reports)</source>
-        <translation type="unfinished"></translation>
+        <translation>מידע אישי (לדוחות)</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="368"/>
         <source>First Name</source>
-        <translation type="unfinished"></translation>
+        <translation>שם פרטי</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="378"/>
         <source>Last Name</source>
-        <translation type="unfinished"></translation>
+        <translation>שם משפחה</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="388"/>
         <source>D.O.B.</source>
-        <translation type="unfinished"></translation>
+        <translation>תאריך לידה</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="404"/>
         <source>Gender</source>
-        <translation type="unfinished"></translation>
+        <translation>מגדר</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="417"/>
         <source>Male</source>
-        <translation type="unfinished"></translation>
+        <translation>זכר</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="422"/>
         <source>Female</source>
-        <translation type="unfinished"></translation>
+        <translation>נקבה</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="438"/>
         <source>Height</source>
-        <translation type="unfinished"></translation>
+        <translation>גובה</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="480"/>
         <source>metric</source>
-        <translation type="unfinished"></translation>
+        <translation>מטרי</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="485"/>
         <source>archiac</source>
-        <translation type="unfinished"></translation>
+        <translation>ארכאי</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="498"/>
         <source>Contact Information</source>
-        <translation type="unfinished"></translation>
+        <translation>מידע ליצירת קשר</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="525"/>
         <location filename="../newprofile.ui" line="789"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>כתובת</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="542"/>
         <location filename="../newprofile.ui" line="820"/>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>מייל</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="552"/>
         <location filename="../newprofile.ui" line="810"/>
         <source>Phone</source>
-        <translation type="unfinished"></translation>
+        <translation>טלפון</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="588"/>
         <source>CPAP Treatment Information</source>
-        <translation type="unfinished"></translation>
+        <translation>מידע טיפול סיפאפ</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="615"/>
         <source>Date Diagnosed</source>
-        <translation type="unfinished"></translation>
+        <translation>תאריך אבחנה</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="629"/>
         <source>Untreated AHI</source>
-        <translation type="unfinished"></translation>
+        <translation>AHI ללא טיפול</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="643"/>
         <source>CPAP Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>אופן עבודה סיפאפ</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="651"/>
         <source>CPAP</source>
-        <translation type="unfinished"></translation>
+        <translation>לחץ קבוע</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="656"/>
         <source>APAP</source>
-        <translation type="unfinished"></translation>
+        <translation>לחץ משתנה</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="661"/>
         <source>Bi-Level</source>
-        <translation type="unfinished"></translation>
+        <translation>שתי רמות</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="666"/>
         <source>ASV</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="674"/>
         <source>RX Pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>לחץ מרשם</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="718"/>
         <source>Doctors / Clinic Information</source>
-        <translation type="unfinished"></translation>
+        <translation>מידע רופא\מרפאה</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="745"/>
         <source>Doctors Name</source>
-        <translation type="unfinished"></translation>
+        <translation>שם הרופא</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="762"/>
         <source>Practice Name</source>
-        <translation type="unfinished"></translation>
+        <translation>שם המרפאה</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="772"/>
         <source>Patient ID</source>
-        <translation type="unfinished"></translation>
+        <translation>שם הפציינט</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="868"/>
         <source>SleepyHead</source>
-        <translation type="unfinished">SlaapKop</translation>
+        <translation>SleepyHead</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="883"/>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="938"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;בטל</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="948"/>
         <source>&amp;Back</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;קודם</translation>
     </message>
     <message>
         <location filename="../newprofile.ui" line="958"/>
         <location filename="../newprofile.cpp" line="211"/>
         <location filename="../newprofile.cpp" line="219"/>
         <source>&amp;Next</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;בא</translation>
     </message>
     <message>
         <location filename="../newprofile.cpp" line="52"/>
         <source>Select Country</source>
-        <translation type="unfinished"></translation>
+        <translation>בחר מדינה</translation>
     </message>
     <message>
         <location filename="../newprofile.cpp" line="110"/>
         <source>Empty Username</source>
-        <translation type="unfinished"></translation>
+        <translation>שם משתמש ריק</translation>
     </message>
     <message>
         <location filename="../newprofile.cpp" line="118"/>
         <source>Passwords don&apos;t match</source>
-        <translation type="unfinished"></translation>
+        <translation>הססמאות לא תואמות</translation>
     </message>
     <message>
         <location filename="../newprofile.cpp" line="141"/>
         <source>Profile Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>שינויי פרופיל</translation>
     </message>
     <message>
         <location filename="../newprofile.cpp" line="141"/>
         <source>Accept and save this information?</source>
-        <translation type="unfinished"></translation>
+        <translation>קבל ושמור מידע זה?</translation>
     </message>
     <message>
         <location filename="../newprofile.cpp" line="209"/>
         <source>&amp;Finish</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;סיים</translation>
     </message>
 </context>
 <context>
