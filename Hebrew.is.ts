@@ -2035,199 +2035,218 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../overview.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>טופס</translation>
     </message>
     <message>
         <location filename="../overview.ui" line="59"/>
         <source>Range:</source>
-        <translation type="unfinished"></translation>
+        <translation>תחום:</translation>
     </message>
     <message>
         <location filename="../overview.ui" line="73"/>
         <source>Last Week</source>
-        <translation type="unfinished"></translation>
+        <translation>שבוע אחרון</translation>
     </message>
     <message>
         <location filename="../overview.ui" line="78"/>
         <source>Last Two Weeks</source>
-        <translation type="unfinished"></translation>
+        <translation>שבועיים אחרונים</translation>
     </message>
     <message>
         <location filename="../overview.ui" line="83"/>
         <source>Last Month</source>
-        <translation type="unfinished"></translation>
+        <translation>חודש אחרון</translation>
     </message>
     <message>
         <location filename="../overview.ui" line="88"/>
         <source>Last Two Months</source>
-        <translation type="unfinished"></translation>
+        <translation>חודשיים אחרונים</translation>
     </message>
     <message>
         <location filename="../overview.ui" line="93"/>
         <source>Last Three Months</source>
-        <translation type="unfinished"></translation>
+        <translation>שלושה חודשים אחרונים</translation>
     </message>
     <message>
         <location filename="../overview.ui" line="98"/>
         <source>Last 6 Months</source>
-        <translation type="unfinished"></translation>
+        <translation>ששה חודשים אחרונים</translation>
     </message>
     <message>
         <location filename="../overview.ui" line="103"/>
         <source>Last Year</source>
-        <translation type="unfinished"></translation>
+        <translation>שנה אחרונה</translation>
     </message>
     <message>
         <location filename="../overview.ui" line="108"/>
         <source>Everything</source>
-        <translation type="unfinished"></translation>
+        <translation>הכל</translation>
     </message>
     <message>
         <location filename="../overview.ui" line="113"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>מותאם</translation>
     </message>
     <message>
         <location filename="../overview.ui" line="121"/>
         <source>Start:</source>
-        <translation type="unfinished"></translation>
+        <translation>התחלה:</translation>
     </message>
     <message>
         <location filename="../overview.ui" line="144"/>
         <source>End:</source>
-        <translation type="unfinished"></translation>
+        <translation>סיום:</translation>
     </message>
     <message>
         <location filename="../overview.ui" line="167"/>
         <source>Reset view to selected date range</source>
-        <translation type="unfinished"></translation>
+        <translation>אפס תחום לטווח התאריכים הנבחר</translation>
     </message>
     <message>
         <location filename="../overview.ui" line="170"/>
         <location filename="../overview.ui" line="197"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../overview.ui" line="194"/>
         <source>Toggle Graph Visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>החלף נראות גרף</translation>
     </message>
     <message>
         <location filename="../overview.ui" line="213"/>
         <source>Drop down to see list of graphs to switch on/off.</source>
-        <translation type="unfinished"></translation>
+        <translation>משוך לראות רשימת גרפים להדליק\לכבות.</translation>
     </message>
     <message>
         <location filename="../overview.ui" line="217"/>
         <source>Graphs</source>
-        <translation type="unfinished"></translation>
+        <translation>גרפים</translation>
     </message>
     <message>
         <location filename="../overview.cpp" line="97"/>
         <source>Apnea
 Hypopnea
 Index</source>
-        <translation type="unfinished"></translation>
+        <translation>אינדקס
+דום
+נשימה</translation>
     </message>
     <message>
         <location filename="../overview.cpp" line="99"/>
         <source>Usage</source>
-        <translation type="unfinished"></translation>
+        <translation>שימוש</translation>
     </message>
     <message>
         <location filename="../overview.cpp" line="99"/>
         <source>Usage
 (hours)</source>
-        <translation type="unfinished"></translation>
+        <translation>שימוש (שעות)</translation>
     </message>
     <message>
         <location filename="../overview.cpp" line="114"/>
         <source>Session Times</source>
-        <translation type="unfinished"></translation>
+        <translation>זמני שימושים</translation>
     </message>
     <message>
         <location filename="../overview.cpp" line="114"/>
         <source>Session Times
 (hours)</source>
-        <translation type="unfinished"></translation>
+        <translation>זמני שימושים (שעות)</translation>
     </message>
     <message>
         <location filename="../overview.cpp" line="95"/>
         <source>Respiratory
 Disturbance
 Index</source>
-        <translation type="unfinished"></translation>
+        <translation>אינדקס
+הפרעות
+נשימה</translation>
     </message>
     <message>
         <location filename="../overview.cpp" line="119"/>
         <source>% in PB</source>
-        <translation type="unfinished"></translation>
+        <translation>% בנשימה מחזורית</translation>
     </message>
     <message>
         <location filename="../overview.cpp" line="119"/>
         <source>Periodic
 Breathing
 (% of night)</source>
-        <translation type="unfinished"></translation>
+        <translation>נשימה
+מחזורית
+(% של לילה)</translation>
     </message>
     <message>
         <location filename="../overview.cpp" line="121"/>
         <source>Peak RDI</source>
-        <translation type="unfinished"></translation>
+        <translation>RDI שיא</translation>
     </message>
     <message>
         <location filename="../overview.cpp" line="121"/>
         <source>Peak RDI
 Shows RDI Clusters
 (RDI/hr)</source>
-        <translation type="unfinished"></translation>
+        <translation>RDI שיא
+מראה מקבצי RDI
+RDI לשעה</translation>
     </message>
     <message>
         <location filename="../overview.cpp" line="123"/>
         <source>Peak AHI</source>
-        <translation type="unfinished"></translation>
+        <translation>שיא AHI</translation>
     </message>
     <message>
         <location filename="../overview.cpp" line="123"/>
         <source>Peak AHI
 Shows AHI Clusters
 (AHI/hr)</source>
-        <translation type="unfinished"></translation>
+        <translation>שיא AHI
+מקבצי AHI
+AHI לשעה</translation>
     </message>
     <message>
         <location filename="../overview.cpp" line="130"/>
         <source>
 (count)</source>
-        <translation type="unfinished"></translation>
+        <translation>
+(ספירה)</translation>
     </message>
     <message>
         <location filename="../overview.cpp" line="125"/>
         <source>Respiratory
 Rate
 (breaths/min)</source>
-        <translation type="unfinished"></translation>
+        <translation>קצב
+נשימה
+(נשימות\דקה)</translation>
     </message>
     <message>
         <location filename="../overview.cpp" line="126"/>
         <source>Tidal
 Volume
 (ml)</source>
-        <translation type="unfinished"></translation>
+        <translation>נפח
+חלופי
+(מ&quot;ל)</translation>
     </message>
     <message>
         <location filename="../overview.cpp" line="127"/>
         <source>Minute
 Ventilation
 (L/min)</source>
-        <translation type="unfinished"></translation>
+        <translation>אוורור
+דקתי
+(ליטר\דקה)</translation>
     </message>
     <message>
         <location filename="../overview.cpp" line="128"/>
         <source>Target
 Ventilation
 (L/min)</source>
-        <translation type="unfinished"></translation>
+        <translation>יעד
+אוורור
+(ליטר\דקה)</translation>
     </message>
     <message>
         <location filename="../overview.cpp" line="129"/>
@@ -2235,71 +2254,78 @@ Ventilation
 Triggered
 Breaths
 (%)</source>
-        <translation type="unfinished"></translation>
+        <translation>נשימות
+מעוררות
+פציינט
+(%)</translation>
     </message>
     <message>
         <location filename="../overview.cpp" line="132"/>
         <source>Oxygen Saturation
 (%)</source>
-        <translation type="unfinished"></translation>
+        <translation>ריווי חמצן
+(%)</translation>
     </message>
     <message>
         <location filename="../overview.cpp" line="135"/>
         <source>Body
 Mass
 Index</source>
-        <translation type="unfinished"></translation>
+        <translation>מדד
+מסת
+גוף</translation>
     </message>
     <message>
         <location filename="../overview.cpp" line="136"/>
         <source>How you felt
 (0-10)</source>
-        <translation type="unfinished"></translation>
+        <translation>איך הרגשת
+(0-10)</translation>
     </message>
     <message>
         <location filename="../overview.cpp" line="138"/>
         <source>Events/Hr</source>
-        <translation type="unfinished"></translation>
+        <translation>אירועים\שעה</translation>
     </message>
     <message>
         <location filename="../overview.cpp" line="153"/>
         <source>Zombie Meter</source>
-        <translation type="unfinished"></translation>
+        <translation>מד זומבי</translation>
     </message>
     <message>
         <location filename="../overview.cpp" line="210"/>
         <source>breaths/min</source>
-        <translation type="unfinished"></translation>
+        <translation>נשימות\דקה</translation>
     </message>
     <message>
         <location filename="../overview.cpp" line="218"/>
         <source>L/b</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../overview.cpp" line="240"/>
         <source>%PTB</source>
-        <translation type="unfinished"></translation>
+        <translation>% נשימת פציינט</translation>
     </message>
     <message>
         <location filename="../overview.cpp" line="267"/>
         <source>% PB</source>
-        <translation type="unfinished"></translation>
+        <translation>% נשימה מחזורית</translation>
     </message>
     <message>
         <location filename="../overview.cpp" line="572"/>
         <source>Show all graphs</source>
-        <translation type="unfinished"></translation>
+        <translation>הראה את כל הגרפים</translation>
     </message>
     <message>
         <location filename="../overview.cpp" line="578"/>
         <source>No Graphs On!</source>
-        <translation type="unfinished"></translation>
+        <translation>אין גרפים נראים!</translation>
     </message>
     <message>
         <location filename="../overview.cpp" line="587"/>
         <source>Hide all graphs</source>
-        <translation type="unfinished"></translation>
+        <translation>הסתר כל הגרפים</translation>
     </message>
 </context>
 <context>
@@ -3953,7 +3979,7 @@ Signed: Nasty Programmer</source>
     <message>
         <location filename="../SleepLib/common.h" line="170"/>
         <source>Pat. Trig. Breath</source>
-        <translation>תבנית נשימה מעוררת</translation>
+        <translation>תבנית נשימה פציינט</translation>
     </message>
     <message>
         <location filename="../SleepLib/common.h" line="171"/>
