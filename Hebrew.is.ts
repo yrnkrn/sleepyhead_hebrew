@@ -2333,201 +2333,210 @@ Index</source>
     <message>
         <location filename="../oximetry.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>טופס</translation>
     </message>
     <message>
         <location filename="../oximetry.ui" line="65"/>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>תאריך</translation>
     </message>
     <message>
         <location filename="../oximetry.ui" line="72"/>
         <source>d/MM/yy h:mm:ss AP</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../oximetry.ui" line="79"/>
         <source>R&amp;eset</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;אפס</translation>
     </message>
     <message>
         <location filename="../oximetry.ui" line="102"/>
         <source>SpO2</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../oximetry.ui" line="181"/>
         <source>Pulse</source>
-        <translation type="unfinished"></translation>
+        <translation>דופק</translation>
     </message>
     <message>
         <location filename="../oximetry.ui" line="260"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../oximetry.ui" line="271"/>
         <source>&amp;Open .spo/R File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;פתח קובץ .spo/R</translation>
     </message>
     <message>
         <location filename="../oximetry.ui" line="278"/>
         <source>Serial &amp;Import</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;יבוא טורי</translation>
     </message>
     <message>
         <location filename="../oximetry.ui" line="291"/>
         <source>&amp;Start Live</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;התחל חי</translation>
     </message>
     <message>
         <location filename="../oximetry.ui" line="305"/>
         <source>Serial Port</source>
-        <translation type="unfinished"></translation>
+        <translation>ממשק טורי</translation>
     </message>
     <message>
         <location filename="../oximetry.ui" line="322"/>
         <source>&amp;Rescan Ports</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;סרוק ממשקים</translation>
     </message>
     <message>
         <location filename="../oximetry.cpp" line="1001"/>
         <source>Control</source>
-        <translation type="unfinished"></translation>
+        <translation>בקרה</translation>
     </message>
     <message>
         <location filename="../oximetry.cpp" line="1043"/>
         <location filename="../oximetry.cpp" line="1483"/>
         <source>No Oximetry Data</source>
-        <translation type="unfinished"></translation>
+        <translation>אין נתוני אוקסימטריה</translation>
     </message>
     <message>
         <location filename="../oximetry.cpp" line="1141"/>
         <source>Oximetry live recording has been terminated due to timeout.</source>
-        <translation type="unfinished"></translation>
+        <translation>הקלטה חיה של נתוני אוקסימטריה נפסקה בגלל פסק זמן.</translation>
     </message>
     <message>
         <location filename="../oximetry.cpp" line="1150"/>
         <location filename="../oximetry.cpp" line="1365"/>
         <source>&amp;Start</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;התחל</translation>
     </message>
     <message>
         <location filename="../oximetry.cpp" line="1168"/>
         <location filename="../oximetry.cpp" line="1655"/>
         <location filename="../oximetry.cpp" line="1710"/>
         <source>Save Session?</source>
-        <translation type="unfinished"></translation>
+        <translation>להקליט שימוש?</translation>
     </message>
     <message>
         <location filename="../oximetry.cpp" line="1168"/>
         <source>Creating a new oximetry session will destroy the old one.
 Would you like to save it first?</source>
-        <translation type="unfinished"></translation>
+        <translation>שימוש אוקסימטריה חדש ידרוס את הישן.
+האם תרצה לשמור תחילה?</translation>
     </message>
     <message>
         <location filename="../oximetry.cpp" line="1168"/>
         <location filename="../oximetry.cpp" line="1655"/>
         <location filename="../oximetry.cpp" line="1710"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>שמור</translation>
     </message>
     <message>
         <location filename="../oximetry.cpp" line="1168"/>
         <location filename="../oximetry.cpp" line="1655"/>
         <location filename="../oximetry.cpp" line="1710"/>
         <source>Destroy It</source>
-        <translation type="unfinished"></translation>
+        <translation>דרוס אותו</translation>
     </message>
     <message>
         <location filename="../oximetry.cpp" line="1168"/>
         <location filename="../oximetry.cpp" line="1655"/>
         <location filename="../oximetry.cpp" line="1710"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>בטל</translation>
     </message>
     <message>
         <location filename="../oximetry.cpp" line="1178"/>
         <source>Please Wait</source>
-        <translation type="unfinished"></translation>
+        <translation>המתן בבקשה</translation>
     </message>
     <message>
         <location filename="../oximetry.cpp" line="1195"/>
         <source>Oximetry Error!
 
 Something is wrong with the device connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>שגיאת אוקסימטריה!
+
+משהו השתבש בחיבור ההתקן.</translation>
     </message>
     <message>
         <location filename="../oximetry.cpp" line="1231"/>
         <source>&amp;Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;עצור</translation>
     </message>
     <message>
         <location filename="../oximetry.cpp" line="1317"/>
         <source>Oximeter Error
 
 The device has not responded.. Make sure it&apos;s switched on.</source>
-        <translation type="unfinished"></translation>
+        <translation>שגיאת אוקסימטר
+
+ההתקן לא הגיב.. וודא שהוא דלוק.</translation>
     </message>
     <message>
         <location filename="../oximetry.cpp" line="1328"/>
         <source>Check Oximeter is Ready</source>
-        <translation type="unfinished"></translation>
+        <translation>בדוק שהאוקסימטר מוכן</translation>
     </message>
     <message>
         <location filename="../oximetry.cpp" line="1348"/>
         <source>Oximeter Error
 
 The device did not respond.. Make sure it&apos;s switched on.</source>
-        <translation type="unfinished"></translation>
+        <translation>שגיאת אוקסימטר
+
+ההתקן לא הגיב.. וודא שהוא דלוק.</translation>
     </message>
     <message>
         <location filename="../oximetry.cpp" line="1396"/>
         <source>Please make sure your oximeter is switched on, and in the right mode to transmit data.</source>
-        <translation type="unfinished"></translation>
+        <translation>בבקשה וודא שהאוקסימטר שלך דלוק ומוגדר לשידור מידע.</translation>
     </message>
     <message>
         <location filename="../oximetry.cpp" line="1396"/>
         <source>Oximeter Error!</source>
-        <translation type="unfinished"></translation>
+        <translation>שגיאת אוקסימטר!</translation>
     </message>
     <message>
         <location filename="../oximetry.cpp" line="1458"/>
         <source>Keep This Recording?</source>
-        <translation type="unfinished"></translation>
+        <translation>לשמור הקלטה זו?</translation>
     </message>
     <message>
         <location filename="../oximetry.cpp" line="1458"/>
         <source>Would you like to save this oximetery session?</source>
-        <translation type="unfinished"></translation>
+        <translation>האם תרצה לשמור שימוש אוקסימטריה זה?</translation>
     </message>
     <message>
         <location filename="../oximetry.cpp" line="1655"/>
         <source>Opening this oximetry file will destroy the current session.
 Would you like to keep it?</source>
-        <translation type="unfinished"></translation>
+        <translation>פתיחת קובץ אוקסימטריה ידרוס את השימוש הנוכחי.
+האם תרצה לשמור אותו?</translation>
     </message>
     <message>
         <location filename="../oximetry.cpp" line="1665"/>
         <source>Select an oximetry file</source>
-        <translation type="unfinished"></translation>
+        <translation>בחר קובץ אוקסימטריה</translation>
     </message>
     <message>
         <location filename="../oximetry.cpp" line="1665"/>
         <source>Oximetry Files (*.spo *.spoR)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../oximetry.cpp" line="1679"/>
         <source>Couldn&apos;t open oximetry file &quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>לא יכול לפתוח קובץ אוקסימטריה &quot;</translation>
     </message>
     <message>
         <location filename="../oximetry.cpp" line="1710"/>
         <source>Opening this oximetry session will destroy the unsavedsession in the oximetry tab.
 Would you like to store it first?</source>
-        <translation type="unfinished"></translation>
+        <translation>פתיחת קובץ אוקסימטריה ידרוס את השימוש הלא מוקלט באוקסימטריה.
+האם תרצה לשמור אותו קודם?</translation>
     </message>
 </context>
 <context>
