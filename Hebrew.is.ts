@@ -2544,39 +2544,40 @@ Would you like to store it first?</source>
     <message>
         <location filename="../preferencesdialog.ui" line="23"/>
         <source>Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>העדפות</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="49"/>
         <source>&amp;Import</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;יבוא</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="61"/>
         <source>Session Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>הגדרות שימוש</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="84"/>
         <source>Combine Close Sessions </source>
-        <translation type="unfinished"></translation>
+        <translation>שלב שימושים קרובים </translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="94"/>
         <location filename="../preferencesdialog.ui" line="179"/>
         <source>Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>דקות</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="114"/>
         <source>Multiple sessions closer together than this value will be kept on the same day.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>שימושים מרובים קרובים מערך זה יישארו באותו יום.
+</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="169"/>
         <source>Ignore Short Sessions</source>
-        <translation type="unfinished"></translation>
+        <translation>התעלם משימושים קצרים</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="193"/>
@@ -2586,32 +2587,32 @@ p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:11pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Sessions shorter in duration than this will not be displayed&lt;span style=&quot; font-style:italic;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-style:italic;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="234"/>
         <source>Day Split Time</source>
-        <translation type="unfinished"></translation>
+        <translation>שעת פיצול היום</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="244"/>
         <source>Sessions starting before this time will go to the previous calendar day.</source>
-        <translation type="unfinished"></translation>
+        <translation>שימושים שהתחילו לפני שעה זו ילכו ליום הקודם.</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="264"/>
         <source>Keep session data in memory to speed up revisiting days.</source>
-        <translation type="unfinished"></translation>
+        <translation>שמור נתוני שימושים בזכרון להאצת ביקור בימים.</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="267"/>
         <source>Cache Session Data (uses more system memory)</source>
-        <translation type="unfinished"></translation>
+        <translation>שמור נתוני שימוש במטמון (משתמש ביותר זכרון מערכת)</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="292"/>
         <source>Session Storage Options</source>
-        <translation type="unfinished"></translation>
+        <translation>אפשרויות אכסון שימושים</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="316"/>
@@ -2622,24 +2623,32 @@ and graph data older than 30 days..
 
 Sleepyhead can keep a copy of this data if you ever need to reinstall. 
 (Highly recomended, unless your short on disk space or don&apos;t care about the graph data)</source>
-        <translation type="unfinished"></translation>
+        <translation>זה שומר גיבוי נתוני כרטיס SD עבור מכונות ResMed,
+
+מכונות ResMed ישנות מוחקות נתוני רזולוציה גבוהה ישנים מ 7 ימים,
+ונתוני גרף ישנים מ 30 ימים..
+
+SleepyHead יכול לשמור העתק של הנתונים אם תצטרך להתקין מחדש.
+(מומלץ ביותר, אלא אם נגמר לך מקום האכון או שאינך מעוניין בנתוני הגרף)</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="325"/>
         <source>Create SD Card Backups during Import (only for ResMed so far, highly recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>צור גיבויי כרטיס SD בזמן יבוא (רק עבור מכונות ResMed, מאוד מומלץ)</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="332"/>
         <source>This makes SleepyHead&apos;s data take around half as much space.
 But it makes import and day changing take longer.. 
 If you&apos;ve got a new computer with a small solid state disk, this is a good option.</source>
-        <translation type="unfinished"></translation>
+        <translation>זה יגרום לנתוני SleepyHead לתפוס חצי מקום
+אבל יגרום להחלפות ימים להיות איטיות יותר..
+אם קיבלת מחשב חדש עם SSD, זאת אפשרות מומלצת.</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="337"/>
         <source>Compress Session Data (makes SleepyHead data smaller, but day changing slower.)</source>
-        <translation type="unfinished"></translation>
+        <translation>דחוס נתוני שימוש (גורם לנתוני SleepyHead לתפוס פחות מקום אבל החלפות איטיות.)</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="344"/>
@@ -2649,17 +2658,22 @@ which is common on Mac &amp; Linux platforms..
 
 SleepyHead can import from this compressed backup directory natively.. 
 To use with ResScan will require the .gz files to be uncompressed first..</source>
-        <translation type="unfinished"></translation>
+        <translation>דחוס גיבויי ResMed EDF כדי לחסוך מקום.
+קבצי EDF מגובים מאוכסנים בפורמט gz,
+הנפוץ על פלטפורמות Mac ו Linux..
+
+SleepyHead יכול ליבא מגיבוי דחוס ישירות..
+אבל עם ResScan יהיה צורך לפרוס את קובצי ה gz תחילה..</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="352"/>
         <source>Compress SD Card Backups (slower first import, but makes backups smaller)</source>
-        <translation type="unfinished"></translation>
+        <translation>דחוס גיבויי כרטיס SD (יבוא ראשון איטי, גיבויים קטנים יותר)</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="364"/>
         <source>The following options affect the amount of disk space SleepyHead uses, and all have an effect on how long import takes.</source>
-        <translation type="unfinished"></translation>
+        <translation>ההגדרות הבאות משנות את כמות האכסון ש SleepyHead משתמש וכולן משפיעות על זמן היבוא.</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="374"/>
@@ -2668,83 +2682,84 @@ To use with ResScan will require the .gz files to be uncompressed first..</sourc
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Changing SD Backup compression options doesn&apos;t automatically recompress backup data.  &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="405"/>
         <source>&amp;CPAP</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="423"/>
         <source>CPAP Mask Information</source>
-        <translation type="unfinished"></translation>
+        <translation>מידע מסכת סיפאפ</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="450"/>
         <source>Mask Type</source>
-        <translation type="unfinished"></translation>
+        <translation>סוג מסכה</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="457"/>
         <source>Generic mask type. Select the one that&apos;s closest to your mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>סוג מסכה ג&apos;נרי. בחר את הקרוב ביותר למסכה שלך.</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="475"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>תיאור</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="482"/>
         <source>The name of your mask, or at least the name you call it.</source>
-        <translation type="unfinished"></translation>
+        <translation>שם המסכה שלך, או לפחות השם שאתה קורא לה.</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="495"/>
         <source>Method of unintentional leaks calculation if not provided by your machine.
 Note: Statistical Model is experimental.</source>
-        <translation type="unfinished"></translation>
+        <translation>שיטה לחישוב דליפות לא רצוניות אם לא חושבו לע ידי המכונה.
+שים לב: מודל סטטיסטי ניסיוני.</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="500"/>
         <source>Mask Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>פרופיל המסכה</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="505"/>
         <source>Statistical Model</source>
-        <translation type="unfinished"></translation>
+        <translation>מודל סטטיסטי</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="519"/>
         <source>Leak calcs</source>
-        <translation type="unfinished"></translation>
+        <translation>חישובי דליפה</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="532"/>
         <source>Started Using</source>
-        <translation type="unfinished"></translation>
+        <translation>שימוש החל</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="545"/>
         <source>The date you started using this mask</source>
-        <translation type="unfinished"></translation>
+        <translation>תאריך בו התחלת להשתמש במסכה</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="561"/>
         <source>Leak Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>פרופיל דליפה</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="575"/>
         <source>Pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>לחץ</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="580"/>
         <source>Leak</source>
-        <translation type="unfinished"></translation>
+        <translation>דליפה</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="593"/>
@@ -2753,54 +2768,56 @@ Note: Statistical Model is experimental.</source>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:italic;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; font-style:normal;&quot;&gt;Note: &lt;/span&gt;Leak profiles currently does not work yet..&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="622"/>
         <source>Shows Respiratory Disturbance Index instead of Apnea/Hypopnea Index (RDI=AHI + RERA)</source>
-        <translation type="unfinished"></translation>
+        <translation>הראה אינדקס הפרעות נשימה במקום אינדקס חסימות נשימה (תוספת RERA)</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="625"/>
         <source>Use RDI instead of AHI (PRS1 only)</source>
-        <translation type="unfinished"></translation>
+        <translation>השתמש ב RDI במקום ב AHI (מכונת PRS1)</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="632"/>
         <source>Don&apos;t show any compliance information</source>
-        <translation type="unfinished"></translation>
+        <translation>אל תציג נתוני ציות כלשהם</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="635"/>
         <source>Show Compliance</source>
-        <translation type="unfinished"></translation>
+        <translation>הצג ציות</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="656"/>
         <source>Regard days with under this usage as &quot;incompliant&quot;. 4 hours is usually considered compliant.</source>
-        <translation type="unfinished"></translation>
+        <translation>החשב ימים עם פחות שימוש מזה כלא-ציות. בדרך כלל נדרשות 4 שעות.</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="659"/>
         <source> hours</source>
-        <translation type="unfinished"></translation>
+        <translation>שעות</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="681"/>
         <source>as over</source>
-        <translation type="unfinished"></translation>
+        <translation>בתור מעל</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="688"/>
         <source>of usage per night</source>
-        <translation type="unfinished"></translation>
+        <translation>של שימוש בלילה</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="698"/>
         <source>Enable/disable experimental event flagging enhancements. 
 It allows detecting borderline events, and some the machine missed.
 This option must be enabled before import, otherwise a purge is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>הפעל\כבה הרחבות סימון אירועים ניסיוניות.
+מאפשר גילוי אירועים גבוליים וכמה שהמכונה פספסה.
+אפשרות זו צריכה להיות דלוקה לפני היבוא, אחרת יידרש טיהור.</translation>
     </message>
     <message>
         <location filename="../preferencesdialog.ui" line="703"/>
